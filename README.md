@@ -1,4 +1,4 @@
-# GRAP Stage 4 (Bring Your Own Chai)
+# KADAK Chai (Bring Your Own Chai)
 
 **Play: https://shadowbaby22.github.io/Bring-Your-Own-Chai/** (phone or desktop, sound on, portrait)
 Work-in-progress build: https://shadowbaby22.github.io/Bring-Your-Own-Chai/dev/
